@@ -20,3 +20,10 @@ How to Run
 1. Clone the repository:
    git clone https://github.com/vadapav071/Simple-Calculator-Using-Switch-Case-in-C
 
+Navigate to the project directory:
+Change to the directory where the code is located:
+
+bash
+Copy code
+cd simple-calculator-c
+

@@ -18,4 +18,5 @@ Detects invalid operators and displays an error message.
 
 How to Run
 1. Clone the repository:
-   git clone https://github.com/yourusername/simple-calculator-c.git
+   git clone https://github.com/vadapav071/Simple-Calculator-Using-Switch-Case-in-C
+

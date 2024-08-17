@@ -23,7 +23,7 @@ How to Run
 Navigate to the project directory:
 Change to the directory where the code is located:
 
-bash
+'''bash
 Copy code
-cd simple-calculator-c
+cd simple-calculator-c'''
 
